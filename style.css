@@ -99,6 +99,11 @@ body {
     transition: .2s;
 }
 
+.card-container .quick-url {
+    text-align: right;
+    color: rgb(79, 92, 99);
+}
+
 .continer{
     height:100px;
     width:100px;
